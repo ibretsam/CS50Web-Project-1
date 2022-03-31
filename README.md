@@ -7,3 +7,4 @@ Create a simple version of Wikipedia using Django framework, HTML, CSS:
 5. Can implement search for Entry
 6. Can create a new entry
 7. Clicking Random page will redirect to a random Entry
+Video demo: https://youtu.be/DZgyikqun3E
